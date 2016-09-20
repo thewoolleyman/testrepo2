@@ -2,6 +2,7 @@
 111222333444
 
 # letters
+aaabbbccc
 
 # combined
-111222333444
+111aaa222bbb333ccc444
