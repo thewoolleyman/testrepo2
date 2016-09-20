@@ -2,6 +2,7 @@
 111222333
 
 # letters
+aaabbb
 
 # combined
-11122233
+111aaa222bbb33
